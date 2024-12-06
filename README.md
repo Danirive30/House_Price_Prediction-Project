@@ -38,7 +38,7 @@ El conjunto de datos utilizado está disponible en Kaggle:
   - `matplotlib` y `seaborn` para visualización.
   - `scikit-learn` para preprocesamiento y modelado.
 
-## 🚀 Pasos Principales del Proyecto
+## Pasos Principales del Proyecto
 
 1. **Carga y Exploración de los Datos:**  
    Se realizó una inspección inicial para entender la estructura del dataset y detectar valores nulos.
