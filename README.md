@@ -4,7 +4,7 @@ Este proyecto utiliza el conjunto de datos **California Housing Prices**, basado
 
 ## Descripción del Proyecto
 
-El objetivo principal del proyecto es explorar, limpiar y modelar los datos para predecir los precios de las viviendas medianas en función de diversas características sociodemográficas y geográficas. Incluye:
+El objetivo principal del proyecto es explorar, limpiar y modelar los datos para predecir los precios de las viviendas medianas en función de diversas características sociodemográficas y geográficas. Este incluye:
 
 - **Análisis Exploratorio de Datos (EDA):** Visualización de las relaciones entre variables y análisis de correlaciones.
 - **Preprocesamiento de Datos:** Manejo de valores nulos, transformación de variables, y codificación de datos categóricos.
