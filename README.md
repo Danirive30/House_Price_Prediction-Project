@@ -1,8 +1,8 @@
 # California Housing Prices
 
-Este proyecto utiliza el conjunto de datos **California Housing Prices**, basado en el censo de California de 1990, para analizar y modelar los precios medianos de las viviendas en los distritos de este estado. Es una excelente introducción al aprendizaje automático debido a su tamaño manejable y las oportunidades que ofrece para el preprocesamiento y la creación de modelos.
+Este proyecto utiliza el conjunto de datos **California Housing Prices**, basado en el censo de California de 1990, para analizar y modelar los precios medianos de las viviendas en los distritos de este estado.
 
-## 📄 Descripción del Proyecto
+## Descripción del Proyecto
 
 El objetivo principal del proyecto es explorar, limpiar y modelar los datos para predecir los precios de las viviendas medianas en función de diversas características sociodemográficas y geográficas. Este proyecto incluye:
 
@@ -30,7 +30,7 @@ El conjunto de datos utilizado está disponible en Kaggle:
 
 > ⚠️ **Nota:** El dataset contiene valores nulos y requiere preprocesamiento.
 
-## 🔧 Herramientas y Tecnologías
+## Herramientas y Tecnologías
 
 - **Lenguaje:** Python  
 - **Bibliotecas:**
